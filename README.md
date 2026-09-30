@@ -1,6 +1,6 @@
 # Adventure Recast for Owlbear Rodeo
 
-Public store listing and support for the Adventure Recast Owlbear Rodeo extension.
+Public store listing and support for the Adventure Recast Owlbear Rodeo extension: adventure modules, maps, character sheets, shared audio, and real-time voice and video calls.
 
 - [Extension listing](store.md)
 - [Install manifest](https://adventurerecast.com/owlbear/manifest.json)

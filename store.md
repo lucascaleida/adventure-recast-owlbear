@@ -1,6 +1,6 @@
 ---
 title: Adventure Recast
-description: Bring your Adventure Recast modules into Owlbear Rodeo with chapter reading, maps, character sheets, tokens, and shared audio.
+description: Bring your Adventure Recast modules into Owlbear Rodeo with maps, character sheets, tokens, shared audio, and real-time video calls.
 author: Adventure Recast
 image: https://adventurerecast.com/assets/hero-book.webp
 icon: https://adventurerecast.com/assets/mark.svg
@@ -14,7 +14,7 @@ learn-more: https://adventurerecast.com/
 
 # Adventure Recast
 
-Bring your Adventure Recast modules to the virtual tabletop. Read chapters and GM notes, create Owlbear scenes from module maps, share illustrations, and manage editable character sheets from the Recast panel.
+Bring your Adventure Recast modules to the virtual tabletop and play together with real-time voice and video calls inside Owlbear Rodeo. Read chapters and GM notes, create Owlbear scenes from module maps, share illustrations, and manage editable character sheets from the Recast panel.
 
 ## Access and requirements
 
@@ -37,9 +37,11 @@ Players do not need an Adventure Recast account to open a character sheet: the G
 - Editable player character, NPC, and creature sheets.
 - Character token generation and placement. AI token generation uses Adventure Recast credits; placing an existing token does not.
 - Shared music and sound effects. Each participant enables audio playback for their own browser.
-- Optional peer-to-peer voice and video calls, with microphone and camera controls.
+- Real-time voice and video calls inside Owlbear Rodeo, with a movable camera window, microphone mute, optional camera, and individual participant volume controls.
 
-## Voice, video, and browser permissions
+## Real-time video calls
+
+See and talk to the other participants while playing, with cameras displayed in a movable, collapsible window over the tabletop. Open the camera and microphone settings to choose your devices and join the call. Hiding the camera window lets you continue talking; choose Leave to end your participation.
 
 Voice and video are optional. Participants explicitly join a call and grant browser permission before using a microphone or camera. Calls use peer-to-peer WebRTC; connectivity can vary across networks. Advanced connection settings accept a user-provided TURN configuration. The extension does not currently include a managed TURN relay.
 
